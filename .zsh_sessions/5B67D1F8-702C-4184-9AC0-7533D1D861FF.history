@@ -1,0 +1,33 @@
+vi
+vi
+ls
+cd
+cd
+pwd
+cat
+cat
+cp
+mv
+ls
+ls -l /bin
+sleep
+test
+unlink
+cat file.txt
+rm
+ls
+Documents
+ls -l /Documents
+ls -Css /Documents
+ls -Css Begginer /Documents
+ls
+pwd
+cd Documents
+ls
+pwd
+cd CSS Begginer
+cd CV
+open
+cd /Users/santiagooviedo
+pwd
+cat > file1.text
